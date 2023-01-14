@@ -31,9 +31,7 @@ python3 trainig_script1.py path_to_pdb_file
 
 This script produces scoring profiles, which represent the estimated Gibbs free energy as a function of interatomic distances. 
 
-```
-python3 plot_script2.py 
-or 
+``` 
 python3 plot_script2.py path_to_pdb_file
 ```
 
